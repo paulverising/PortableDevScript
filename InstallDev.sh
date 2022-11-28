@@ -10,9 +10,10 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 #Install iterm2
 brew install --cask iterm2
 
-#Install git and github cli
+#Install git, github cli, stow
 brew install git
 brew install gh
+brew install stow
 
 #Install Sublime
 brew install --cask sublime-text
